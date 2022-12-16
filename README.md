@@ -2,11 +2,6 @@
 # Solution for Module 13 Challenge
 
 A basic back-end database management system for managing inventory through multiple categories.
-
-![](./media/screenshot1.jpg)
-![](./media/screenshot2.jpg)  
-![](./media/screenshot3.jpg)
-![](./media/screenshot4.jpg)  
   
 [Click for demonstration video](https://fryylord.github.io/eCommerce/media/ecommerce.mp4)  
 [Link to GitHub Repo](https://github.com/fryylord/eCommerce)  
