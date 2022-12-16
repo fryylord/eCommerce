@@ -8,7 +8,7 @@ A basic back-end database management system for managing inventory through multi
 ![](./media/screenshot3.jpg)
 ![](./media/screenshot4.jpg)  
   
-[Click for demonstration video](https://fryylord.github.io/employee_tracker/media/ecommerce.mp4)  
+[Click for demonstration video](https://fryylord.github.io/eCommerce/media/ecommerce.mp4)  
 [Link to GitHub Repo](https://github.com/fryylord/eCommerce)  
 
 - [Installation](#installation)
